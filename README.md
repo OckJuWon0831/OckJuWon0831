@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?height=250&theme=radical&text=IT's%20a%20good%20day%20to%20code&desc=Welcome%20to%20any%20random%20developer...&type=waving&fontColor=d6ace6&fontAlignY=30&animation=twinkling)
+
 
 <!--
 **OckJuWon0831/OckJuWon0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
