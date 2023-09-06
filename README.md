@@ -4,8 +4,8 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOckJuWon0831%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
   ### HEY THERE! 😄
   ### Welcome to my workspace 👍 <br/> 
-  #### My name is Jack, from South Korea, and an enthusiastic IT geek for Backend development & Cloud service deployment
-  
+  #### My name is Jack, from South Korea, and an enthusiastic IT geek for Backend development.
+
   <br/>
   <br/>
   
